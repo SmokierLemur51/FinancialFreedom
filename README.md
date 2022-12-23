@@ -1,2 +1,3 @@
 # FinancialFreedom
-Financial management and visualization of current portfolio, savings goals, transaction tracking. Also will give financial advice to help you reach your goals while conducting analysis of spending and savings.
+
+Financial management platform that provides a visualization of current portfolio, savings, savings goals, transaction tracking, and future investment goals. Will give an in depth analysis of your spending habits, along with how you can better save your money by recommending ways to save.
